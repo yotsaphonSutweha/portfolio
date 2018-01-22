@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.parallax
+{
+    background-color: black;
+    padding:0;
+    
+}
+.box
+{
+    padding: 50px 250px;
+}
+
+.page-footer 
+{
+    height:300px;
+}
+
+.contact
+{
+    height: 600px;
+}
+
+.contact-email
+{
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid ;
+    border-left-style: none;
+}
+.contact-phone 
+{
+    padding-top:10px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid ;
+    border-left-style: none;
+}
+
+.row-bottom
+{
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid ;
+    border-left-style: none;
+}
