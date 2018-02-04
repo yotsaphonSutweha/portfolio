@@ -21,10 +21,3 @@ const NavBar = props => {
 
 export default NavBar;
 
-var square = function(x) {
-  return x * x
-}
-
-var square = (x,y) =>  (
-  x * x
-)
