@@ -4,16 +4,8 @@ const Contact = () => {
     return(
         <div className="container contact">
             <div className="row">
-                <div className="col m7">
-                <div className="input-field col s12">
-                <form method="POST" action="https://formspree.io/komsan_58@hotmail.com">
-                    <input type="email" name="email" placeholder="Your email"></input>
-                    <textarea name="message" class="materialize-textarea email-area" placeholder="Your message"></textarea>
-                    <button type="submit">Send</button>
-                </form>
-                </div>
-                </div>
-                <div className="col m5">
+                
+                <div className="col m6 offset-m6">
                     <h4>Keep updated</h4>
                     <div className="contact-email">
                         <p>Email</p>
@@ -26,6 +18,19 @@ const Contact = () => {
                     
                 </div>
             </div>
+            <div className="row">
+                <div className="col m12">
+                <div className="input-field col s12">
+                <form method="POST" action="https://formspree.io/komsan_58@hotmail.com">
+                    <input type="email" name="email" placeholder="Your email"></input>
+                    <textarea name="message" class="materialize-textarea email-area" placeholder="Your message"></textarea>
+                    <button type="submit">Send</button>
+                </form>
+                </div>
+                </div>
+               
+            </div>
+            
         </div>
        
     );
