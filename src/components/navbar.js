@@ -1,6 +1,6 @@
 import React from 'react';
 
-const NavBar = () => {
+const NavBar = props => {
     return (
       <nav>
           <div className="nav-wrapper">
@@ -20,3 +20,11 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+var square = function(x) {
+  return x * x
+}
+
+var square = (x,y) =>  (
+  x * x
+)

@@ -8,7 +8,7 @@ const Contact = () => {
                 <div className="input-field col s12">
                 <form method="POST" action="https://formspree.io/komsan_58@hotmail.com">
                     <input type="email" name="email" placeholder="Your email"></input>
-                    <textarea name="message" class="materialize-textarea" placeholder="Your message"></textarea>
+                    <textarea name="message" class="materialize-textarea email-area" placeholder="Your message"></textarea>
                     <button type="submit">Send</button>
                 </form>
                 </div>

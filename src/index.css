@@ -5,8 +5,14 @@ body {
 }
 .parallax
 {
-    background-color: black;
+    
     padding:0;
+    
+}
+img{
+    
+    height: 760px;
+    width: 100%;
     
 }
 .box

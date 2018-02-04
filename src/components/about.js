@@ -1,5 +1,5 @@
 import React from 'react';
-
+import img from './yo.jpg';
 
 
 const About = () => {
@@ -7,9 +7,11 @@ const About = () => {
         
         <div>
             
-                <div className="parallax-container">
-                    <div className="parallax"></div>
-                </div>
+                
+                    <div>
+                    <img src={img} />
+                    </div>
+              
             
             <div className="container" id="about">
                 <div className="row">
