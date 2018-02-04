@@ -18,15 +18,15 @@ const Experience = () => {
                        <h4></h4>
                        <ul className="collapsible" data-collapsible="accordion">
                        <li>
-                            <div className="collapsible-header"><i className="material-icons">filter_drama</i>Company</div>
+                            <div className="collapsible-header"><i className="material-icons">business</i>Company</div>
                             <div className="collapsible-body"><span>IT Complexity Ly.</span></div>
                         </li>
                         <li>
-                            <div className="collapsible-header"><i className="material-icons">place</i>Duration</div>
+                            <div className="collapsible-header"><i className="material-icons">access_time</i>Duration</div>
                             <div className="collapsible-body"><span>Part-time. Jan 2017 - Present.</span></div>
                         </li>
                          <li>
-                            <div className="collapsible-header"><i className="material-icons">whatshot</i>Location</div>
+                            <div className="collapsible-header"><i className="material-icons">place</i>Location</div>
                             <div className="collapsible-body"><span>County Dublin, Ireland.</span></div>
                         </li>
                        </ul>
@@ -43,15 +43,15 @@ const Experience = () => {
                        <h4></h4>
                        <ul className="collapsible" data-collapsible="accordion">
                        <li>
-                            <div className="collapsible-header"><i className="material-icons">filter_drama</i>Company</div>
+                            <div className="collapsible-header"><i className="material-icons">business</i>Company</div>
                             <div className="collapsible-body"><span>Thai Therapy Centre.</span></div>
                         </li>
                         <li>
-                            <div className="collapsible-header"><i className="material-icons">place</i>Duration</div>
+                            <div className="collapsible-header"><i className="material-icons">access_time</i>Duration</div>
                             <div className="collapsible-body"><span>Part-time. Jan 2014 - Dec 2014.</span></div>
                         </li>
                          <li>
-                            <div className="collapsible-header"><i className="material-icons">whatshot</i>Location</div>
+                            <div className="collapsible-header"><i className="material-icons">place</i>Location</div>
                             <div className="collapsible-body"><span>Room 114, Dooleys' Hotel, The Quay, Waterford, Ireland.</span></div>
                         </li>
                        </ul>
@@ -67,15 +67,15 @@ const Experience = () => {
                        <h4></h4>
                        <ul className="collapsible" data-collapsible="accordion">
                        <li>
-                            <div className="collapsible-header"><i className="material-icons">filter_drama</i>Company</div>
+                            <div className="collapsible-header"><i className="material-icons">business</i>Company</div>
                             <div className="collapsible-body"><span>Thai Healing Massage Dublin.</span></div>
                         </li>
                         <li>
-                            <div className="collapsible-header"><i className="material-icons">place</i>Duration</div>
+                            <div className="collapsible-header"><i className="material-icons">access_time</i>Duration</div>
                             <div className="collapsible-body"><span>Aug 2016 - Present.</span></div>
                         </li>
                          <li>
-                            <div className="collapsible-header"><i className="material-icons">whatshot</i>Location</div>
+                            <div className="collapsible-header"><i className="material-icons">place</i>Location</div>
                             <div className="collapsible-body"><span>1st Floor, Thai Healing Massage, 53 Middle Abbey Street, Dublin 1, Ireland.</span></div>
                         </li>
                        </ul>
@@ -92,15 +92,15 @@ const Experience = () => {
                        <h4></h4>
                        <ul className="collapsible" data-collapsible="accordion">
                        <li>
-                            <div className="collapsible-header"><i className="material-icons">filter_drama</i>Company</div>
+                            <div className="collapsible-header"><i className="material-icons">business</i>Company</div>
                             <div className="collapsible-body"><span>Thai Healing Massage Dublin.</span></div>
                         </li>
                         <li>
-                            <div className="collapsible-header"><i className="material-icons">place</i>Duration</div>
+                            <div className="collapsible-header"><i className="material-icons">access_time</i>Duration</div>
                             <div className="collapsible-body"><span>Full Time. Jan 2018 - Present.</span></div>
                         </li>
                          <li>
-                            <div className="collapsible-header"><i className="material-icons">whatshot</i>Location</div>
+                            <div className="collapsible-header"><i className="material-icons">place</i>Location</div>
                             <div className="collapsible-body"><span>1st Floor, Thai Healing Massage, 53 Middle Abbey Street, Dublin 1, Ireland.</span></div>
                         </li>
                        </ul>
