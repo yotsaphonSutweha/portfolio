@@ -5,7 +5,7 @@ const Experience = () => {
         <div>
             <div className="container row-bottom">
                 <div className="row">
-                    <h2 className="col s12">Experience</h2>
+                    <h2 className="col s12" id="experience">Experience</h2>
                 </div>
                 <div className="row">
                     <div className="col s6">

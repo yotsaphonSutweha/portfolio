@@ -13,7 +13,7 @@ img{
     
     height: 760px;
     width: 100%;
-    
+    background-attachment: fixed;
 }
 .box
 {
@@ -57,7 +57,7 @@ img{
 {
     height:500px;
 }
-a:hover
+a:hover, a:active
 {
     text-decoration: none;
     color: black;

@@ -6,7 +6,7 @@ const Work = () => {
             
             <div className="container row-bottom">
                 <div className="row">
-                    <h2 className="col s12">Portfolio</h2>
+                    <h2 className="col s12" id="portfolio">Portfolio</h2>
                 </div>
                 <div className="row">
                     <div className="col s12 m12 l4">

@@ -1,4 +1,5 @@
 import React from 'react';
+import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 const NavBar = props => {
     return (
@@ -9,10 +10,10 @@ const NavBar = props => {
            
             <a href="#" data-activates="mobile-demo" className="button-collapse"><i className="material-icons">menu</i></a>
             <ul id="nav-mobile" className="left hide-on-med-and-down">
-              <li><a href="#about">About</a></li>
-              <li><a href="badges.html">Portfolio</a></li>
-              <li><a href="collapsible.html">Work I do</a></li>
-              <li><a href="collapsible.html">Contact</a></li>
+              <li><AnchorLink href="#about">About</AnchorLink></li>
+              <li><AnchorLink href="#portfolio">Portfolio</AnchorLink></li>
+              <li><AnchorLink href="#experience">Work I do</AnchorLink></li>
+              <li><AnchorLink href="#contact">Contact</AnchorLink></li>
             </ul>
        
        

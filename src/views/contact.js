@@ -1,12 +1,13 @@
 import React from 'react';
 
+
 const Contact = () => {
     return(
         <div className="container contact">
             <div className="row">
                 
                 <div className="col m6 offset-m6">
-                    <h4>Keep updated</h4>
+                    <h4 id="contact">Keep updated</h4>
                     <div className="contact-email">
                         <p>Email</p>
                         <p>dakdon40@gmail.com</p>
@@ -30,8 +31,12 @@ const Contact = () => {
                 </div>
                
             </div>
+          
+              
             
         </div>
+
+     
        
     );
 }
