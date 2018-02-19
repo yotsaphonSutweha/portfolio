@@ -1,11 +1,9 @@
 import React from 'react';
 
-
 const Contact = () => {
     return(
         <div className="container contact">
             <div className="row">
-                
                 <div className="col m6 offset-m6">
                     <h4 id="contact">Keep updated</h4>
                     <div className="contact-email">
@@ -16,7 +14,6 @@ const Contact = () => {
                         <p>Phone</p>
                         <p>086-844-1277</p>
                     </div>
-                    
                 </div>
             </div>
             <div className="row">
@@ -29,15 +26,8 @@ const Contact = () => {
                 </form>
                 </div>
                 </div>
-               
             </div>
-          
-              
-            
         </div>
-
-     
-       
     );
 }
 

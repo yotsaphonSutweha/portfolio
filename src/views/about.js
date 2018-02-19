@@ -1,25 +1,16 @@
 import React from 'react';
-import img from './yo.jpg';
 import { Parallax, Background} from 'react-parallax';
 
 const About = () => {
     return (
-        
         <div>
-            
-           
-       
-    <Parallax
-      blur={{ min: -15, max: 15 }}
-      bgImage={require('./yo.jpg')}
-     
-      strength={200}
-    >
-      
-      <div style={{ height: '700px' }} />
-    </Parallax>            
-              
-            
+            <Parallax
+                blur={{ min: -15, max: 15 }}
+                bgImage={require('./yo.jpg')}
+                strength={200}
+            >
+                <div style={{ height: '700px' }} />
+            </Parallax>            
             <div className="container" >
                 <div className="row">
                     <h2 className="col s12" id="about">About me</h2>
@@ -38,10 +29,6 @@ const About = () => {
                     </div>
                 </div>
             </div>
-            
-            
-            
-            
         </div>
     );
 }

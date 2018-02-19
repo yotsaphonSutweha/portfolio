@@ -3,7 +3,6 @@ import React from 'react';
 const Work = () => {
     return (
         <div>
-            
             <div className="container row-bottom">
                 <div className="row">
                     <h2 className="col s12" id="portfolio">Portfolio</h2>
